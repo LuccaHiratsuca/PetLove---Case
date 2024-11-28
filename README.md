@@ -1,4 +1,4 @@
-# Case - Paine de Estágio - 2024.2
+# Case - Painel de Estágio - 2024.2
 
 ## Contexto:
 A Petlove oferece planos de saúde para pets deseja melhorar a retenção de clientes e a adesão a novos planos. Para isso, a empresa precisa entender melhor o comportamento dos clientes atuais e identificar padrões que possam indicar o risco de cancelamento ou oportunidades de venda de planos adicionais.
